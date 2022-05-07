@@ -1,5 +1,6 @@
 # Laravel Blade Helper
-
+## How to install ?
+`composer require kamandlou/blade-helper`
 ## Lists of directives and helpers
 ### Directives
 1. uppercase
